@@ -3,9 +3,9 @@
 ## Origin Story
 
 12 years ago my friends and I began playing Fantasy Football. Within the first season, it completley took over our lives. We live, breathe and talk football. 
-Throughout the years of playing many memorable things have happened. 
+Throughout the years, many memorable things have happened. 
 
-The term most commonly known as a "sleeper" was coined a foster in my league, due to the emmergence of Arian Foster in 2010. My brother, won 3 championships in the first six years of our league. One member won on autodraft and with Mark Sanchez at the quarterback position. One member talked all summer about "the superstar he was going to draft in the first round" and then drafted David Montgomery his rookie year. 
+The term most commonly known as a "sleeper" was coined a "foster" in my league, due to the emmergence of Arian Foster in 2010. My brother, won 3 championships in the first six years of our league. One member won on autodraft and with Mark Sanchez at the quarterback position! One member talked all summer about "the superstar he was going to draft in the first round" and then drafted David Montgomery his rookie year. I drafted and kept Josh Gordon, over and over and over again, no matter how many times he let me down. 
 
 There are endless stories from the 12 years of my league, and I know every Fantasy League that exists has their own similiar but also hilariously unique stories. 
 
