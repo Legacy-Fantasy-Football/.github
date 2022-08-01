@@ -11,7 +11,7 @@ There are endless stories from the 12 years of my league, and I know every Fanta
 
 I have always felt like the modern systems that we play Fantasy in, ESPN, Yahoo, CBS are missing the user experience of fantasy. As Jeff Schaffer says, Fantasy Football is about the quest for individual acheivement and all that goes into it. The endless up and downs, hope and despair, and firendly banter while you compete with one another. 
 
->Fantasy football is actually an amazing American pastime, because it takes the ultimate team sport, NFL and football, and turns it into the quest for individual achievement.> - Jeff Schaffer
+>Fantasy football is actually an amazing American pastime, because it takes the ultimate team sport, NFL and football, and turns it into the quest for individual achievement. - Jeff Schaffer
 
 I set out to create an application that helps Fantasy Football Leagues retell the narrative of the league. I wanted users to have info and stats from their league at the end of their fingertips. And most importantly I wante to once and for all put to end, the ever argued topic, of who is really the best in the league? 
 
