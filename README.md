@@ -17,16 +17,16 @@ I set out to create an application that helps Fantasy Football Leagues retell th
 
 ## User Story
 
--Users can create a league in LFF, by importing their ESPN Fantasy Football League Id, and Authorization cookies (Espn_s2, and SWID)
--League members can search for a league once it is created in LFF. 
--Users can see a chart displaying the ammount of wins each owner has over the course of the league. 
--Users can see a chart displaying the ammount of points each owner has over the course of the league. 
--Users can see a sortable table that displays the trophy room. Which shows how many playoffs,finals appearences, and championships owners have. 
--Users can see a table that shows each year's standings and records. 
+- Users can create a league in LFF, by importing their ESPN Fantasy Football League Id, and Authorization cookies (Espn_s2, and SWID)
+- League members can search for a league once it is created in LFF. 
+- Users can see a chart displaying the ammount of wins each owner has over the course of the league. 
+- Users can see a chart displaying the ammount of points each owner has over the course of the league. 
+- Users can see a sortable table that displays the trophy room. Which shows how many playoffs,finals appearences, and championships owners have. 
+- Users can see a table that shows each year's standings and records. 
 
 Now these stats are nice, and help paint the league picture. But what was really needed was a finitive way to rank a leagues owners. 
 
--Users can see the Legacy Ranking board, which shows the legacy points each owner has. 
+- Users can see the Legacy Ranking board, which shows the legacy points each owner has. 
 
 ##ERD
 
