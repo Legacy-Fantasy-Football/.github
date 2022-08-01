@@ -1,5 +1,7 @@
 # Legacy Fantasy Football
 
+Deployed : https://legacyfantasyfootball.vercel.app/
+
 ## Origin Story
 
 12 years ago my friends and I began playing Fantasy Football. Within the first season, it completley took over our lives. We live, breathe and talk football. 
