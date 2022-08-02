@@ -19,7 +19,7 @@ I have always felt like the modern systems that we play Fantasy in, ESPN, Yahoo,
 
 ### The Solution
 
-I set out to create an application that helps Fantasy Football Leagues retell the narrative of the league. I wanted users to have info and stats from their league at the end of their fingertips. And most importantly I wanted to once and for all put to end, the ever argued topic, of who is really the best in the league? 
+I set out to create an application that helps Fantasy Football Leagues retell the narrative of the league. I wanted users to have info and stats from their league at the end of their fingertips. I wanted to broaden the fight for individual achievement from one mere year, to a everlasting quest to be crowned the best in your league. The legacy points system that I created allows fantasy football leagues to be looked at over the longhaul.  Fantasy Football is not going away, and it is time to start thinking of leagues as long term battles for glory rather than an annual rise and fall. 
 
 ## User Story
 
