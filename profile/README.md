@@ -13,7 +13,7 @@ There are endless stories from the 12 years of my league, and I know every Fanta
 
 ### The Problem
 
-I have always felt like the modern systems that we play Fantasy in, ESPN, Yahoo, CBS are missing the user experience of fantasy. As Jeff Schaffer says, Fantasy Football is about the quest for individual acheivement and all that goes into it. The endless up and downs, feelings of hope and despair, the friendly banter that sometimes goes too far, and the relationships with players and with league. But our modern systems don;t track this. They care about the NFL stats. And every year Owner's hard sweat and tears from the past year is deleted.  
+I have always felt like the modern systems that we play Fantasy in, ESPN, Yahoo, CBS are missing the user experience of fantasy. As Jeff Schaffer says, Fantasy Football is about the quest for individual acheivement and all that goes into it. The endless up and downs, feelings of hope and despair, the friendly banter that sometimes goes too far, and the relationships with players and with league. But our modern systems don't track these stories, and offer very little in memory. They care about the current NFL stats. And every year, Owner's hard sweat and tears from the past year are deleted and removed from the narrative.  
 
 >Fantasy football is actually an amazing American pastime, because it takes the ultimate team sport, NFL and football, and turns it into the quest for individual achievement. - Jeff Schaffer
 
