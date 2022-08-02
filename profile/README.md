@@ -34,6 +34,15 @@ Now these stats are nice, and help paint the league picture. But what was really
 
 - Users can see the Legacy Ranking board, which shows the legacy points each owner has. 
 
+## Technology Used
+
+- Python
+- Django
+- React 
+- HTML 
+- CSS 
+- Bootstrap
+
 ## ERD
 
 <img width="890" alt="Screen Shot 2022-08-01 at 6 53 07 PM" src="https://user-images.githubusercontent.com/75767764/182258823-5b1fcf1a-c4c1-44c1-8b65-80645ab66805.png">
