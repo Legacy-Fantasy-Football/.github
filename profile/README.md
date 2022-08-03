@@ -30,7 +30,7 @@ I set out to create an application that helps Fantasy Football Leagues retell th
 - Users can see a sortable table that displays the trophy room. Which shows how many playoffs,finals appearences, and championships owners have. 
 - Users can see a table that shows each year's standings and records. 
 
-Now these stats are nice, and help paint the league picture. But what was really needed was a finitive way to rank a leagues owners. 
+Now these stats are nice, and help paint the league picture. But what was really needed was a finitive way to rank leagues owners. 
 
 - Users can see the Legacy Ranking board, which shows the legacy points each owner has. 
 
